@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-list {
+    list-style-type: none;
+    text-align: center;  
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
